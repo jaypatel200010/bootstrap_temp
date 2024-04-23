@@ -1,0 +1,359 @@
+.n1 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 16px 24px;
+  width: calc(100% - 48px);
+  position: absolute;
+  left: 0px;
+  z-index: 3;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.8);
+  color: rgb(52, 71, 103);
+  border-radius: 0.75rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 0rem 0.25rem 0.375rem -0.0625rem,
+    rgba(0, 0, 0, 0.06) 0rem 0.125rem 0.25rem -0.0625rem;
+  backdrop-filter: saturate(200%) blur(30px);
+}
+
+.hbg {
+  min-height: 75vh;
+  width: 100%;
+  place-items: center;
+}
+.text {
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-right: 400px;
+  z-index: 2;
+  position: absolute;
+  color: aliceblue;
+  text-align: center;
+}
+.d2 {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-width: 0px;
+  overflow-wrap: break-word;
+  background-clip: border-box;
+  border: 0px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.75rem;
+  overflow: visible;
+  padding: 16px;
+  margin-top: -64px;
+  margin-bottom: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: saturate(200%) blur(30px);
+  box-shadow: rgba(0, 0, 0, 0.05) 0rem 1.25rem 1.6875rem 0rem;
+}
+.d21 {
+  text-align: center;
+}
+.t1 {
+  color: rgb(26, 115, 232);
+}
+.card {
+  background-color: rgba(77, 170, 241, 0.838);
+}
+.IC {
+  text-align: center;
+  margin-top: 100px;
+}
+.css-cmupyc {
+  min-height: 10rem;
+  opacity: 1;
+  background: rgb(255, 255, 255);
+  color: rgb(52, 71, 103);
+  border-radius: 0.75rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 0rem 0.625rem 0.9375rem -0.1875rem,
+    rgba(0, 0, 0, 0.05) 0rem 0.25rem 0.375rem -0.125rem;
+  overflow: hidden;
+  transform: perspective(999px) rotateX(0deg) translate3d(0px, 0px, 0px);
+  transform-origin: 50% 0px;
+  backface-visibility: hidden;
+  will-change: transform, box-shadow;
+  transition: transform 200ms ease-out 0s;
+}
+.css-h8f6pa {
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  opacity: 1;
+  background: transparent;
+  color: rgb(52, 71, 103);
+  box-shadow: none;
+}
+.dg4 {
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  opacity: 1;
+  color: rgb(52, 71, 103);
+  box-shadow: none;
+  background: linear-gradient(
+        195deg,
+        rgba(66, 66, 74, 0.8),
+        rgba(25, 25, 25, 0.8)
+      )
+      center center / cover,
+    url(https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/desktop.jpg)
+      transparent;
+  border-radius: 0.75rem;
+  background-position: center center;
+}
+.css-1uc9k28 {
+  width: 100%;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin-right: auto;
+  display: block;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: aliceblue;
+}
+.css-1r2tepl {
+  position: relative;
+  opacity: 1;
+  background: linear-gradient(195deg, rgb(66, 66, 74), rgb(25, 25, 25));
+  color: rgb(52, 71, 103);
+  border-radius: 0.75rem;
+  box-shadow: none;
+  overflow: hidden;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.css-178ncif {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 1;
+  opacity: 0.2;
+  background: transparent;
+  color: rgb(52, 71, 103);
+  box-shadow: none;
+}
+.css-s995sb {
+  width: 100%;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin-right: auto;
+  display: block;
+  padding: 96px 16px;
+  position: relative;
+  z-index: 2;
+}
+.css-v0vfoo {
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: wrap;
+  width: 100%;
+  margin: 0px auto;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  flex-grow: 0;
+  max-width: 100%;
+  -webkit-box-pack: center;
+  justify-content: center;
+  text-align: center;
+}
+.css-hgbapb {
+  margin: 0px;
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 1.875rem;
+  line-height: 1.375;
+  font-weight: 700;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  letter-spacing: -0.125px;
+}
+.css-1qlfg28 {
+  margin: 0px 0px 8px;
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 1.875rem;
+  line-height: 1.375;
+  font-weight: 700;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  letter-spacing: -0.125px;
+}
+.css-3rwhps {
+  margin: 0px 0px 48px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.6;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  letter-spacing: -0.125px;
+}
+.css-hkcyid {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px 0px 16px;
+  cursor: pointer;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.02857em;
+  min-width: 64px;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  line-height: 1.4;
+  text-align: center;
+  text-transform: uppercase;
+  user-select: none;
+  transition: all 150ms ease-in 0s;
+  min-height: 2.9375rem;
+  padding: 0.75rem 1.75rem;
+  font-size: 0.875rem;
+  background-image: linear-gradient(
+    195deg,
+    rgb(73, 163, 241),
+    rgb(26, 115, 232)
+  );
+  background-position-y: initial;
+  background-repeat: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  color: rgb(255, 255, 255);
+  box-shadow: rgba(26, 115, 232, 0.15) 0rem 0.1875rem 0.1875rem 0rem,
+    rgba(26, 115, 232, 0.2) 0rem 0.1875rem 0.0625rem -0.125rem,
+    rgba(26, 115, 232, 0.15) 0rem 0.0625rem 0.3125rem 0rem;
+  background-size: 150% !important;
+  background-position-x: 25% !important;
+}
+.css-36z9b9 {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px 8px 0px 0px;
+  cursor: pointer;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.02857em;
+  min-width: 64px;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  line-height: 1.4;
+  text-align: center;
+  text-transform: uppercase;
+  user-select: none;
+  transition: all 150ms ease-in 0s;
+  min-height: 2.5rem;
+  padding: 0.625rem 1.5rem;
+  background-color: rgb(85, 172, 238);
+  color: rgb(255, 255, 255);
+  box-shadow: none;
+  background-size: 150% !important;
+  background-position-x: 25% !important;
+}
+.css-i67u29 {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px 8px 0px 0px;
+  cursor: pointer;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.02857em;
+  min-width: 64px;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  line-height: 1.4;
+  text-align: center;
+  text-transform: uppercase;
+  user-select: none;
+  transition: all 150ms ease-in 0s;
+  min-height: 2.5rem;
+  padding: 0.625rem 1.5rem;
+  background-color: rgb(59, 89, 152);
+  color: rgb(255, 255, 255);
+  box-shadow: none;
+  background-size: 150% !important;
+  background-position-x: 25% !important;
+}
+.css-1yoxszh {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px;
+  cursor: pointer;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.02857em;
+  min-width: 64px;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  line-height: 1.4;
+  text-align: center;
+  text-transform: uppercase;
+  user-select: none;
+  transition: all 150ms ease-in 0s;
+  min-height: 2.5rem;
+  padding: 0.625rem 1.5rem;
+  background-color: rgb(204, 33, 39);
+  color: rgb(255, 255, 255);
+  box-shadow: none;
+  background-size: 150% !important;
+  background-position-x: 25% !important;
+}
